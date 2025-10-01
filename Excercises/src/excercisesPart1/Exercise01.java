@@ -16,6 +16,9 @@ public class Exercise01 {
 		age = reader.nextInt();
 		
 		System.out.println("Fine thanks.");
+		
+		// Close Scanner
+		reader.close();
 
 
 	}
