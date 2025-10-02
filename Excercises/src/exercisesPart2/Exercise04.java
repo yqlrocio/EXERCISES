@@ -1,9 +1,11 @@
 package exercisesPart2;
 
-public class ExercisePart2 {
+public class Exercise04 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 *  
+		 */
 
 	}
 
